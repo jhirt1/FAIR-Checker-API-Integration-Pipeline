@@ -79,18 +79,17 @@ The execution script activates the virtual environment and runs `data_collection
 ## Expected Directory Structure
 
 ```
-Sample Collection/
-  Inbound/
-    <Excel input file>
-  Outbound/
-    Logging/
-    Sampling/
-    Raw Data/
-    Results/
-    Error Record Reports/
+Inbound/
+  <Excel input file>
+Outbound/
+  Logging/
+  Sampling/
+  Raw Data/
+  Results/
+  Error Record Reports/
 ```
 
-All generated outputs are written beneath `Sample Collection/Outbound/`.
+All generated outputs are written beneath `Outbound/`.
 
 ---
 
@@ -123,7 +122,7 @@ The pipeline computes:
 Final merged outputs are written to:
 
 ```
-Sample Collection/Outbound/Results/<sheet>/
+Outbound/Results/<sheet>/
 ```
 
 ---
@@ -136,7 +135,7 @@ Pipeline behavior can be configured directly within `data_collection.py`, includ
 - `SHEET_NAME` — Sheet to process
 - `TXT_FILE_DIR` — Subdirectory containing zero-citation support files
 - `MODE` — `test`, `full`, or `rerun`
-- `ROOT` — Base working directory (`Sample Collection` by default)
+- `ROOT` — Base working directory
 
 ---
 
