@@ -152,7 +152,7 @@ Dependencies are installed automatically via `setup.sh` using the pinned version
 
 If you use this software in academic work, please cite:
 
-Hirt, Juliana. (2026). *FAIR-Checker API Integration Pipeline.* Zenodo. https://doi.org/10.5281/zenodo.18732906
+Hirt, J. (2026). FAIR-Checker API Integration Pipeline [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18732906
 
 ### BibTeX
 
