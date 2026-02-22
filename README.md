@@ -174,7 +174,7 @@ All outputs are timestamped.
 
 If you use this software in academic work, please cite:
 
-Hirt, Juliana. (2026). *FAIRness Pipeline (FAIR-Checker Integrated).* Zenodo. https://doi.org/10.5281/zenodo.18732906
+Hirt, Juliana. (2026). *FAIR-Checker API Integration Pipeline.* Zenodo. https://doi.org/10.5281/zenodo.18732906
 
 ### BibTeX
 
