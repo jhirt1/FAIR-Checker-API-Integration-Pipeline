@@ -1,4 +1,4 @@
-# FAIRness Pipeline (FAIR-Checker Integrated)
+# FAIR-Checker API Integration Pipeline
 
 [![DOI](https://zenodo.org/badge/1162863255.svg)](https://doi.org/10.5281/zenodo.18732906)
 
