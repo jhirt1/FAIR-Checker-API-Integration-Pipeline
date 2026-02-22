@@ -181,7 +181,7 @@ Hirt, Juliana. (2026). *FAIR-Checker API Integration Pipeline.* Zenodo. https://
 ```bibtex
 @software{hirt_fairness_pipeline_2026,
   author    = {Hirt, Juliana},
-  title     = {FAIRness Pipeline (FAIR-Checker Integrated)},
+  title     = {FAIR-Checker API Integration Pipeline},
   year      = {2026},
   doi       = {10.5281/zenodo.18732906},
   url       = {https://doi.org/10.5281/zenodo.18732906},
