@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hirt
+    given-names: Juliana
+    orcid: https://orcid.org/0009-0007-8026-1751
+title: "FAIR-Checker API Integration Pipeline"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18732906
+date-released: 2026-02-22
