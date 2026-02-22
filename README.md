@@ -1,6 +1,6 @@
 # FAIR-Checker API Integration Pipeline
 
-[![DOI](https://zenodo.org/badge/1162863255.svg)](https://doi.org/10.5281/zenodo.18732906)
+[![DOI](https://zenodo.org/badge/1162863255.svg)](https://doi.org/10.5281/zenodo.18734665)
 
 A reproducible pipeline for programmatic FAIRness evaluation using the FAIR-Checker API. This project supports publication-grade metadata quality assessment by constructing a citation-stratified sample, submitting DOI/URL targets to FAIR-Checker with retry logic and rate-limit jitter, handling all-zero metric payloads via within-bucket replacement, and exporting structured FAIR metric outputs for downstream analysis.
 
@@ -152,7 +152,7 @@ Dependencies are installed automatically via `setup.sh` using the pinned version
 
 If you use this software in academic work, please cite:
 
-Hirt, J. (2026). FAIR-Checker API Integration Pipeline [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18732906
+Hirt, J. (2026). FAIR-Checker API Integration Pipeline [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18734665
 
 ### BibTeX
 
@@ -161,8 +161,8 @@ Hirt, J. (2026). FAIR-Checker API Integration Pipeline [Computer software]. Zeno
   author    = {Hirt, Juliana},
   title     = {FAIR-Checker API Integration Pipeline},
   year      = {2026},
-  doi       = {10.5281/zenodo.18732906},
-  url       = {https://doi.org/10.5281/zenodo.18732906},
+  doi       = {10.5281/zenodo.18734665},
+  url       = {https://doi.org/10.5281/zenodo.18734665},
   publisher = {Zenodo}
 }
 ```
