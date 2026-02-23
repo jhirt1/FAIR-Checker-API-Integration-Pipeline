@@ -60,7 +60,7 @@ The setup script will:
 Place your Excel input file inside:
 
 ```
-Sample Collection/Inbound/
+Inbound/
 ```
 
 ---
@@ -133,7 +133,6 @@ Pipeline behavior can be configured directly within `data_collection.py`, includ
 
 - `TARGET` — Name of Excel file located in `Inbound/`
 - `SHEET_NAME` — Sheet to process
-- `TXT_FILE_DIR` — Subdirectory containing zero-citation support files
 - `MODE` — `test`, `full`, or `rerun`
 - `ROOT` — Base working directory
 
